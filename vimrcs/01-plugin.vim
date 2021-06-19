@@ -36,3 +36,8 @@ Plug 'kevinhwang91/nvim-bqf'
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 
 call plug#end()
+
+" Automatically install missing plugins on startup
+if !empty(filter(copy(g:plugs), '!isdirectory(v:val.dir)'))
+  autocmd VimEnter * PlugInstall | q
+endif
