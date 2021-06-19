@@ -1,0 +1,22 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "markdown",
+    "javascript",
+    "typescript",
+    "json",
+    "jsonc",
+    "vue",
+    "jsx",
+    "css"
+  ],
+  "prettier.semi": false,
+  "prettier.trailingComa": "es5",
+  "coc.source.around.enable": false,
+  "coc.source.buffer.enable": false,
+  "cSpell.userWords": [
+    "AUTHING",
+    "ciphertext",
+    "cleword",
+    "typedi"
+  ]
+}
