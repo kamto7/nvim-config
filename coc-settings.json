@@ -15,6 +15,7 @@
   "coc.source.buffer.enable": false,
   "cSpell.userWords": [
     "AUTHING",
+    "Middlewares",
     "ciphertext",
     "cleword",
     "typedi"

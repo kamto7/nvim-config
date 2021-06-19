@@ -16,9 +16,11 @@ set autoindent
 set smartindent
 set noeb
 set cursorline
-" set clipboard+=unnamed
+set clipboard+=unnamed
 set autoread
 set scrolloff=3
+
+filetype plugin on
 
 set ttyfast
 set nocompatible
@@ -58,3 +60,7 @@ vnoremap <M-c> "+y
 
 " <Ctrl-l> redraws the screen and removes any search highlighting.
 nnoremap <silent> <C-l> :nohl<CR><C-l>
+
+nnoremap <silent> rg :Rg<CR>
+nnoremap <silent> rf :Files<CR>
+

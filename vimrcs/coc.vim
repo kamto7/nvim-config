@@ -8,7 +8,6 @@ let g:coc_global_extensions = [
       \ 'coc-prettier',
       \ 'coc-tsserver',
       \ 'coc-snippets',
-      \ 'coc-snippets',
       \ 'coc-spell-checker',
       \ 'coc-yank',
       \ 'coc-tabnine',
