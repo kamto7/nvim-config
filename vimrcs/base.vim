@@ -56,7 +56,7 @@ else
   set signcolumn=yes
 endif
 
-vnoremap <M-c> "+y
+" vnoremap <M-c> "+y
 
 " <Ctrl-l> redraws the screen and removes any search highlighting.
 nnoremap <silent> <C-l> :nohl<CR><C-l>

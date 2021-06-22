@@ -18,7 +18,6 @@ Plug 'machakann/vim-sandwich'
 Plug 'preservim/nerdcommenter'
 
 Plug 'airblade/vim-gitgutter'
-Plug 'tpope/vim-fugitive'
 
 Plug 'ryanoasis/vim-devicons'
 

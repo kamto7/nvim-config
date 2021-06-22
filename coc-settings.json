@@ -13,11 +13,21 @@
   "prettier.trailingComa": "es5",
   "coc.source.around.enable": false,
   "coc.source.buffer.enable": false,
+  "typescript.preferences.importModuleSpecifier": "relative",
   "cSpell.userWords": [
+    "ALIYUN",
     "AUTHING",
+    "CLEMAN",
+    "Dysmsapi",
     "Middlewares",
+    "alicloud",
+    "aliyuncss",
+    "bson",
     "ciphertext",
     "cleword",
-    "typedi"
+    "forchange",
+    "openapi",
+    "typedi",
+    "userinfo"
   ]
 }

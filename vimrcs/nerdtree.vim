@@ -7,5 +7,4 @@ nnoremap <C-f> :NERDTreeFind<CR>
 
 let g:NERDTreeGitStatusUseNerdFonts = 1
 let g:NERDTreeGitStatusShowIgnored = 1
-let g:NERDTreeGitStatusUntrackedFilesMode = 'all'
 
