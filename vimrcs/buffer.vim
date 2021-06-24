@@ -1,6 +1,9 @@
 " normal 模式下使用 bl 列出 Buffer 列表
 nnoremap <silent> bl :Buffers<CR>
 
+" normal 模式下使用 b# 切换前一个 Buffer
+nnoremap <silent> b# :b#<CR>
+
 " normal 模式下使用 bo 打开一个新 Buffer
 nnoremap <silent> bo :enew<CR>
 
