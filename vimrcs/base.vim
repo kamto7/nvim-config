@@ -61,6 +61,7 @@ endif
 " <Ctrl-l> redraws the screen and removes any search highlighting.
 nnoremap <silent> <C-l> :nohl<CR><C-l>
 
-nnoremap <silent> rg :Rg<CR>
-nnoremap <silent> rf :Files<CR>
+nnoremap <silent> tg :Rg<CR>
+nnoremap <silent> tf :Files<CR>
 
+nnoremap <leader>cd :cd %:p:h<CR>

@@ -18,6 +18,7 @@ Plug 'machakann/vim-sandwich'
 Plug 'preservim/nerdcommenter'
 
 Plug 'airblade/vim-gitgutter'
+Plug 'tpope/vim-fugitive'
 
 Plug 'ryanoasis/vim-devicons'
 
@@ -34,9 +35,9 @@ Plug 'kevinhwang91/nvim-bqf'
 
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 
+Plug 'pantharshit00/vim-prisma'
+
+Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install'  }
+
 call plug#end()
 
-" Automatically install missing plugins on startup
-if !empty(filter(copy(g:plugs), '!isdirectory(v:val.dir)'))
-  autocmd VimEnter * PlugInstall | q
-endif
