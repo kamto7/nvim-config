@@ -9,10 +9,11 @@
     "vue",
     "jsx",
     "tsx",
-    "css"
+    "css",
+    "html"
   ],
   "prettier.semi": false,
-  "prettier.trailingComa": "es5",
+  "prettier.trailingComma": "es5",
   "coc.source.around.enable": false,
   "coc.source.buffer.enable": false,
   "typescript.preferences.importModuleSpecifier": "relative"
