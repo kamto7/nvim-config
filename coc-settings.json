@@ -14,7 +14,9 @@
   ],
   "prettier.semi": false,
   "prettier.trailingComma": "es5",
+  "prettier.proseWrap": "never",
   "coc.source.around.enable": false,
   "coc.source.buffer.enable": false,
-  "typescript.preferences.importModuleSpecifier": "relative"
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "vetur.validation.style": false
 }

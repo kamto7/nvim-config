@@ -39,5 +39,7 @@ Plug 'pantharshit00/vim-prisma'
 
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install'  }
 
+Plug 'posva/vim-vue'
+
 call plug#end()
 
