@@ -16,5 +16,6 @@
   "coc.source.around.enable": false,
   "coc.source.buffer.enable": false,
   "typescript.preferences.importModuleSpecifier": "relative",
+  "vetur.format.defaultFormatter.html": "prettyHtml",
   "vetur.validation.style": false
 }
