@@ -13,15 +13,8 @@
     "html"
   ],
   "prettier.semi": false,
-  "prettier.proseWrap": "never",
   "coc.source.around.enable": false,
   "coc.source.buffer.enable": false,
   "typescript.preferences.importModuleSpecifier": "relative",
-  "vetur.format.defaultFormatterOptions": {
-    "prettier": {
-      "semi": false,
-      "proseWrap": "never"
-    }
-  },
   "vetur.validation.style": false
 }
