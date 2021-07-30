@@ -7,6 +7,7 @@ let g:coc_global_extensions = [
       \ 'coc-prisma',
       \ 'coc-prettier',
       \ 'coc-tsserver',
+      \ 'coc-go',
       \ 'coc-snippets',
       \ 'coc-tailwindcss',
       \ 'coc-sql',
