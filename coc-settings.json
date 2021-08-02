@@ -10,7 +10,8 @@
     "jsx",
     "tsx",
     "css",
-    "html"
+    "html",
+    "go"
   ],
   "prettier.semi": false,
   "coc.source.around.enable": false,
